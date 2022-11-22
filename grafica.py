@@ -81,5 +81,5 @@ querys(sirven[0][0],sirven[0][1],sirven[0][2],sirven[0][3],'r',ax)
 
 ax.invert_yaxis()
 plt.tight_layout()
-plt.savefig('search-quadtree.png', DPI=100)
+plt.savefig('search-quadtree22.png', DPI=100)
 plt.show()
